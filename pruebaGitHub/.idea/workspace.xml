@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="39a7dac8-a5e5-4530-8255-980f4500387b" name="Changes" comment="" />
+    <list default="true" id="39a7dac8-a5e5-4530-8255-980f4500387b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alumno.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -20,6 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/nueva__clase",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
